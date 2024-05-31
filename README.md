@@ -1,4 +1,4 @@
-Machine Learning Contest Project
+Machine Learning Contest 
 This repository contains the model that achieved 2nd place in the BMSCE IEEE machine learning contest. The project involves data analysis and machine learning techniques applied to a provided dataset.
 
 Table of Contents
